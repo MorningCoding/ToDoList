@@ -16,3 +16,5 @@ https://morningcoding.github.io/ToDoList/
 #    document.getElementById("myBtn").click();
 #  }
 # });
+#
+# Add a database: Got SQL set up on April 19.
